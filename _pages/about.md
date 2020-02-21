@@ -12,7 +12,7 @@ redirect_from:
  -->
 
 
-I am a PhD candidate at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) under the supervision of Prof. [Jean Imbs](http://www.jeanimbs.com/)
+I am a PhD candidate at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) under the supervision of [Prof. Jean Imbs](http://www.jeanimbs.com/)
 
 My research interests are:
 
