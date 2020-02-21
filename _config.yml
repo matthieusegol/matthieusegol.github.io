@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Matthieu Segol"
   avatar           : "profile.png"
-  bio              : "PhD candidate"
+  bio              : "PhD candidate at the <a style='color: black;' href='https://www.parisschoolofeconomics.eu/en/'>Paris School of Economics</a>"
   location         : "Paris, France"
-  employer         : "https://www.parisschoolofeconomics.eu/en/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://www.parisschoolofeconomics.eu/en/"
+  employer         : 
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://fr.linkedin.com/in/matthieu-segol-85232250"
   orcid            : 
   pinterest        :
   soundcloud       :
