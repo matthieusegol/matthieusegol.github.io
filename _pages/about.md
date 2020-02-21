@@ -17,14 +17,11 @@ I am a PhD candidate at the [Paris School of Economics](https://www.parisschoolo
 My research interests are:
 
 - Financial Economics
-
 - Banking
-
 - Financial Regulation
-
 - Derivatives
 
-In the previous years, I have had the privilege to work at the [European Investment Bank](https://www.eib.org/en/about/economic-research/index.htm), the [European Commission](https://ec.europa.eu/info/departments/economic-and-financial-affairs_en) and the [OECD](https://www.oecd.org/economy/)
+In the previous years, I have had the privilege to work at the [European Investment Bank](https://www.eib.org/en/about/economic-research/index.htm), the [European Commission](https://ec.europa.eu/info/departments/economic-and-financial-affairs_en) and the [OECD](https://www.oecd.org/economy/).
 
 <!-- 
 A data-driven personal website
