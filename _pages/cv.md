@@ -26,7 +26,7 @@ Work experience
 
 * 2013: OECD (Paris)
   
-<!-- Skills
+Skills
 ======
 * Skill 1
 * Skill 2
@@ -52,4 +52,4 @@ Teaching
    <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-   -->
+   
