@@ -4,4 +4,4 @@ permalink: /other/
 author_profile: true
 ---
 
-Helena
+Do not hesitate to check Helena's amazing [drawings](www.helenahauss.net), a wonderful artist based in [Paris](www.schoolgallery.fr)
