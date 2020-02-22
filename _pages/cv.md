@@ -15,7 +15,7 @@ Education
 * PhD in Economics, Paris School of Economics, 2020 (expected)
 * M.S. in Economics and Public Policy, Sciences Po - Ecole Polytechnique - ENSAE, 2013
 * M.S. in Theoretical and Empirical Economics, Paris School of Economics, 2012
-* B.S. in Economics, Ecole Normale Superieure Paris-Saclay, 2009
+* B.S. in Economics, Ecole Normale Superieure Paris-Saclay (*Normalien*), 2009
 
 
 Work experience
