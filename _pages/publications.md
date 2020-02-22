@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "Research"
 permalink: /publications/
 author_profile: true
@@ -17,7 +17,6 @@ author_profile: true
  -->
 
 ## Mandatory Central Clearing and Banks' Use of Interest Rate Derivatives (with [S. Daudignon](https://www.parisschoolofeconomics.eu/en/daudignon-sandra/))
-
 
 In this paper we investigate the impact of the US central clearing requirement on banks’
 use of interest rate derivatives. We document that despite the mandatory clearing of
