@@ -17,6 +17,7 @@ Education
 * M.S. in Theoretical and Empirical Economics, Paris School of Economics, 2012
 * B.S. in Economics, Ecole Normale Superieure Paris-Saclay, 2009
 
+
 Work experience
 ======
 * 2017-2019: European Investment Bank (Luxembourg)
