@@ -20,9 +20,6 @@ Education
 Work experience
 ======
 * 2017-2019: European Investment Bank (Luxembourg)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * 2014: European Commission (Bruxelles)
 
@@ -49,8 +46,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
-======
+<!-- Teaching
+====== -->
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
