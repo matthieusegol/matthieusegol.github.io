@@ -33,3 +33,14 @@ did not translate into comparatively higher capital charges for banks that rebal
 their portfolio. These results suggest that for a significant number of institutions, the
 post-crisis reform package does not provide a cost incentive to move towards central
 clearing yet.
+
+## Asset Prices with Ambiguity Aversion and Collateral Constraint
+
+This paper studies the impact of an occasionally binding collateral constraint on
+asset prices when agents have heterogeneous ambiguity aversion. The results show
+that the constraint can lead to lower stock return volatility, suggesting a possible stabilizing
+effect of tighter financial regulations when market participants are concerned
+about ambiguity. Simulations also suggest that a binding constraint can speed up the
+disappearance of ambiguity-averse agents by leading them to have more pessimistic
+beliefs and to save relatively less. Through this channel, the constraint can contribute
+to reduced asset mispricing in the long run.
