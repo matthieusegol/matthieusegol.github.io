@@ -18,5 +18,5 @@ main:
   #   url: /year-archive/
     
     
-  - title: "Other"
-    url: /other/
+  # - title: "Other"
+  #   url: /other/
