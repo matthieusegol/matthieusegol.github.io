@@ -23,8 +23,8 @@ My research interests are:
 
 In the previous years, I've had the privilege to work at the [European Investment Bank](https://www.eib.org/en/about/economic-research/index.htm), the [European Commission](https://ec.europa.eu/info/departments/economic-and-financial-affairs_en) and the [OECD](https://www.oecd.org/economy/).
 
-I am also a huge fan of [music](https://www.thestrokes.com/), playing the guitar and organizing concerts in Paris from time to time.
-
+<!-- I am also a huge fan of [music](https://www.thestrokes.com/), playing the guitar and organizing concerts in Paris from time to time.
+ -->
 <!-- 
 A data-driven personal website
 ======

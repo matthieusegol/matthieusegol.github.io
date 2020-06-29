@@ -34,6 +34,8 @@ their portfolio. These results suggest that for a significant number of institut
 post-crisis reform package does not provide a cost incentive to move towards central
 clearing yet.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 
 ## Asset Prices with Ambiguity Aversion and Collateral Constraint
 
