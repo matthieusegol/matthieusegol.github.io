@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
@@ -19,7 +19,7 @@ author_profile: true
 <!-- ## Mandatory Central Clearing and Banks' Use of Interest Rate Derivatives (with [S. Daudignon](https://www.parisschoolofeconomics.eu/en/daudignon-sandra/))
 
  In this paper we investigate the impact of the US central clearing requirement on banks' use of interest rate derivatives. We document that despite the mandatory clearing of interest rate swaps, there is still a significant share of end-user banks with a limited clearing activity, several years after the implementation of the reform. We show this stems from the fact that these institutions substituted mandated instruments, i.e. swaps, with over-the-counter interest rate options, which are not yet mandated to be centrally cleared. We also provide evidence that the subsequent introduction of relatively tighter capital requirements for uncleared products through Basel III did not translate into comparatively higher capital charges for banks that rebalanced their portfolio. These results suggest that for a significant number of institutions, the post-crisis reform package does not provide a cost incentive to move towards central clearing yet. -->
- 
+
 ## The Impact of Bank Loan Terms on Intangible Investment in Europe (with A. Kolev and L. Maurin)
 
 
