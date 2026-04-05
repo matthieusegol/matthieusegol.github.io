@@ -20,6 +20,8 @@ Education
 
 Work experience
 ======
+* 2020-: Banque de France
+
 * 2017-2019: European Investment Bank (Luxembourg)
 
 * 2014: European Commission (Bruxelles)
