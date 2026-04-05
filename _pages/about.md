@@ -11,9 +11,8 @@ redirect_from:
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
  -->
 
-Hello
-
-I am a PhD candidate at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) under the supervision of [Prof. Jean Imbs](http://www.jeanimbs.com/)
+<!--
+I am an researcher economist at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) under the supervision of [Prof. Jean Imbs](http://www.jeanimbs.com/)
 
 My research interests are:
 
@@ -23,6 +22,14 @@ My research interests are:
 - Derivatives
 
 In the previous years, I've had the privilege to work at the [European Investment Bank](https://www.eib.org/en/about/economic-research/index.htm), the [European Commission](https://ec.europa.eu/info/departments/economic-and-financial-affairs_en) and the [OECD](https://www.oecd.org/economy/).
+
+ -->
+
+I am a research economist in the Financial Stability Directorate at the Banque de France, where I work on macroprudential policy. My research interests include financial regulation, banking, household finance, and real estate markets.
+
+Before joining the Banque de France, I've had the privilege to work at the [European Investment Bank](https://www.eib.org/en/about/economic-research/index.htm), the [European Commission](https://ec.europa.eu/info/departments/economic-and-financial-affairs_en) and the [OECD](https://www.oecd.org/economy/).
+
+I hold a PhD from [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), where I was supervised by [Prof. Jean Imbs](http://www.jeanimbs.com/).
 
 <!-- I am also a huge fan of [music](https://www.thestrokes.com/), playing the guitar and organizing concerts in Paris from time to time.
  -->
