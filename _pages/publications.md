@@ -28,7 +28,7 @@ author_profile: true
 This paper introduces a novel econometric framework, referred to as a mesoeconometric approach, which integrates a micro-level identification into a macroeconometric framework. The model is designed to assess the effects of borrower-based measures (BBMs) on the housing market, household credit and the broader economy. In the first step, we identify lending standards shocks using a structural vector autoregressive (SVAR) model, assuming they capture the contribution of BBMs following their implementation. We then leverage the heterogeneous effects of these measures across different segments of the lending standards distribution to isolate the portion of the shocks attributable to BBMs. We apply our framework to French data, evaluating the effects of the 2019 implementation of caps on the debt-service-to-income (DSTI) ratios and maturity of new housing loans. Overall, our framework serves as a valuable tool for conducting ex post impact assessments of BBMs, even in data-constrained environments, and is readily adaptable to evaluate similar macroprudential policies in other settings.
 
  
-## The Impact of Bank Loan Terms on Intangible Investment in Europe (with A. Kolev and L. Maurin, 2020)
+## The Impact of Bank Loan Terms on Intangible Investment in Europe (with Atanas Kolev and Laurent Maurin, 2020)
 
 
 [Download paper here](http://matthieusegol.github.io/files/Segol_Kolev_Maurin_2020.pdf)
